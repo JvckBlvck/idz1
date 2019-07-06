@@ -1,0 +1,9 @@
+﻿  MyForm.cpp
+C:\Users\senny\source\repos\idz1\idz1\MyForm.h(707,23): warning C4244:  инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\senny\source\repos\idz1\idz1\MyForm.h(726,45): warning C4244:  аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\senny\source\repos\idz1\idz1\MyForm.h(726,42): warning C4244:  аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\senny\source\repos\idz1\idz1\MyForm.h(726,39): warning C4244:  аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\senny\source\repos\idz1\idz1\MyForm.h(758,44): warning C4244:  аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\senny\source\repos\idz1\idz1\MyForm.h(818,40): warning C4244:  аргумент: преобразование "double" в "float", возможна потеря данных
+  AssemblyInfo.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  idz1.vcxproj -> C:\Users\senny\source\repos\idz1\Debug\idz1.exe
